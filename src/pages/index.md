@@ -8,10 +8,7 @@ sections:
     title: ANDREY DEVYATKIN
     content: |
       CI/CD. DevSecOps. Cloud infrastructure.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
