@@ -53,6 +53,7 @@ models:
           - green
           - orange
           - purple
+          - grey
         default: blue
         required: true
       - type: enum
