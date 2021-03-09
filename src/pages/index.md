@@ -37,11 +37,11 @@ sections:
           *   Public speaker
 
 
-          *   [Co-Founder at FivexL. Cloud Engineering
-          Specialists](https://fivexl.io/)
+          *   [**Co-Founder at FivexL. Cloud Engineering
+          Specialists**](https://fivexl.io/)
 
 
-          *   [Co-host at DevSecOps Talks Podcast](https://devsecops.fm/)
+          *   [**Co-host at DevSecOps Talks Podcast**](https://devsecops.fm/)
 
 
           *   Meetups organizer (Cloud Native Las Palmas de Gran Canaria,
